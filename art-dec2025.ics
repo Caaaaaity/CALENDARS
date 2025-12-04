@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Caitlin//ArtDaily//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:20251201-art-caitlin@calendars
+DTSTAMP:20251201T120000Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Art Prompt: Soft Goddess Portrait
+DESCRIPTION:Create a dreamy portrait with glowing skin, soft lighting, and one exaggerated feature (eyes, hair, or jewelry). Mixed media or digital.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251202-art-caitlin@calendars
+DTSTAMP:20251202T120000Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:Art Prompt: Maximalist Altar Still Life
+DESCRIPTION:Draw or collage a witchy altar with candles, crystals, perfume bottles, and fashion accessories arranged in a luxe composition.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251203-art-caitlin@calendars
+DTSTAMP:20251203T120000Z
+DTSTART;VALUE=DATE:20251203
+DTEND;VALUE=DATE:20251204
+SUMMARY:Art Prompt: Neon City Window
+DESCRIPTION:Illustrate a nighttime city view from a window with neon signs, reflections on glass, and cozy interior details.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251204-art-caitlin@calendars
+DTSTAMP:20251204T120000Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:Art Prompt: Tarot Fashion Look
+DESCRIPTION:Design an outfit inspired by any Major Arcana card; focus on silhouette, symbolism, and accessories.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251205-art-caitlin@calendars
+DTSTAMP:20251205T120000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:Art Prompt: Plant-Filled Shrine
+DESCRIPTION:Create a corner full of plants, candles, and textiles; play with pattern-on-pattern and layered textures.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251206-art-caitlin@calendars
+DTSTAMP:20251206T120000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:Art Prompt: Disco Bath
+DESCRIPTION:Draw or collage a bathroom scene with disco balls, colored lights, bubbles, and self-care products.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251207-art-caitlin@calendars
+DTSTAMP:20251207T120000Z
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:Art Prompt: Mixed Media Moodboard Page
+DESCRIPTION:Fill one page with ripped paper, lettering, symbols, and textures around one word: LUXE.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251208-art-caitlin@calendars
+DTSTAMP:20251208T120000Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:Art Prompt: Celestial Bedroom
+DESCRIPTION:Design a bedroom with moons, stars, sheer curtains, and glowing objects. Think Lisa Frank x witchcore.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251209-art-caitlin@calendars
+DTSTAMP:20251209T120000Z
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+SUMMARY:Art Prompt: Statement Shoe Shrine
+DESCRIPTION:Focus on one pair of iconic shoes displayed like art with props around them (flowers, beads, candles).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251210-art-caitlin@calendars
+DTSTAMP:20251210T120000Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:Art Prompt: Mirror Selfie Spirit Guide
+DESCRIPTION:Draw yourself in a mirror with an animal, symbol, or glowing entity behind you as a guide.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251211-art-caitlin@calendars
+DTSTAMP:20251211T120000Z
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251212
+SUMMARY:Art Prompt: Perfume Bottle Collection
+DESCRIPTION:Design three fantasy perfume bottles with ornate labels, charms, and colored liquid.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251212-art-caitlin@calendars
+DTSTAMP:20251212T120000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Art Prompt: Patchwork Throne
+DESCRIPTION:Create a throne or chair upholstered in patchwork fabrics, beads, and trims, with a dramatic backdrop.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251213-art-caitlin@calendars
+DTSTAMP:20251213T120000Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:Art Prompt: Cyber Fairy Familiar
+DESCRIPTION:Draw a fairy or familiar with holographic wings, tech accessories, and glowing markings.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251214-art-caitlin@calendars
+DTSTAMP:20251214T120000Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:Art Prompt: Closet Altar
+DESCRIPTION:Turn a wardrobe or closet into a hidden altar; show clothes, shoes, and spiritual items together.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251215-art-caitlin@calendars
+DTSTAMP:20251215T120000Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:Art Prompt: Crystal Dessert
+DESCRIPTION:Combine dessert aesthetics (cakes, frosting) with crystals and gemstones as toppings.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251216-art-caitlin@calendars
+DTSTAMP:20251216T120000Z
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20251217
+SUMMARY:Art Prompt: Night Market Scene
+DESCRIPTION:Illustrate a night market with fashion stalls, art, street food, and magical lighting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251217-art-caitlin@calendars
+DTSTAMP:20251217T120000Z
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+SUMMARY:Art Prompt: Guardian Coat
+DESCRIPTION:Design a long coat that feels like protection magic, with charms, embroidery, and hidden pockets.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251218-art-caitlin@calendars
+DTSTAMP:20251218T120000Z
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251219
+SUMMARY:Art Prompt: Plant Goth Corner
+DESCRIPTION:Draw a dark, moody corner with black pots, dramatic plants, and soft pink or neon accents.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251219-art-caitlin@calendars
+DTSTAMP:20251219T120000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Art Prompt: Mystic Vanity
+DESCRIPTION:Create a vanity table with makeup, brushes, talismans, and an ornate mirror with something appearing in it.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251220-art-caitlin@calendars
+DTSTAMP:20251220T120000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Art Prompt: Glam Tarot Card Back
+DESCRIPTION:Design the REVERSE side of a tarot deck card in your own brand style: patterns, symbols, borders.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251221-art-caitlin@calendars
+DTSTAMP:20251221T120000Z
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:Art Prompt: Solstice Portal
+DESCRIPTION:Create a winter solstice doorway or portal filled with light, plants, and symbols of rebirth.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251222-art-caitlin@calendars
+DTSTAMP:20251222T120000Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+SUMMARY:Art Prompt: Streetwear Witch
+DESCRIPTION:Design a modern witch outfit you’d actually wear on the street; sneakers or boots encouraged.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251223-art-caitlin@calendars
+DTSTAMP:20251223T120000Z
+DTSTART;VALUE=DATE:20251223
+DTEND;VALUE=DATE:20251224
+SUMMARY:Art Prompt: Ornament Spell
+DESCRIPTION:Illustrate or collage ornaments that are actually spells—each one has a purpose (money, love, protection).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251224-art-caitlin@calendars
+DTSTAMP:20251224T120000Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+SUMMARY:Art Prompt: Cozy Familiar
+DESCRIPTION:Draw a cat, bird, or other familiar curled up with you in a decorated winter nest.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251225-art-caitlin@calendars
+DTSTAMP:20251225T120000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:Art Prompt: Dream Gift Box
+DESCRIPTION:Design a gift box that reflects your dream life—symbols, colors, and textures on the wrapping.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251226-art-caitlin@calendars
+DTSTAMP:20251226T120000Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Art Prompt: Studio Rearrangement Map
+DESCRIPTION:Draw a map of your ideal studio or craft space layout, including storage, tables, and inspiration zones.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251227-art-caitlin@calendars
+DTSTAMP:20251227T120000Z
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:Art Prompt: Mood Ring Palette
+DESCRIPTION:Create a grid of color swatches that match your emotional palette today and label them with feelings.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251228-art-caitlin@calendars
+DTSTAMP:20251228T120000Z
+DTSTART;VALUE=DATE:20251228
+DTEND;VALUE=DATE:20251229
+SUMMARY:Art Prompt: Year-In-Icons
+DESCRIPTION:Draw small icons that represent the key events and themes of your year, arranged in a spread.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251229-art-caitlin@calendars
+DTSTAMP:20251229T120000Z
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251230
+SUMMARY:Art Prompt: Portal to Next Year
+DESCRIPTION:Illustrate a door, mirror, or portal that leads into the version of you you are becoming.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251230-art-caitlin@calendars
+DTSTAMP:20251230T120000Z
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20251231
+SUMMARY:Art Prompt: Scrapbook Review Page
+DESCRIPTION:Make a mixed-media page with clippings, words, and tiny drawings summarizing 2025.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251231-art-caitlin@calendars
+DTSTAMP:20251231T120000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Art Prompt: 2026 Vision Collage
+DESCRIPTION:Create a collage or digital composition that feels like the cover image for your 2026 story.
+END:VEVENT
+
+END:VCALENDAR
