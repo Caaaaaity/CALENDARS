@@ -5,12 +5,39 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
 BEGIN:VEVENT
+UID:20251201-tarot-caitlin@calendars
+DTSTAMP:20251201T120000Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Daily Tarot: The Fool
+DESCRIPTION:Card: The Fool. Upright: new beginnings, leap of faith, fresh energy. Reversed: impulsive, reckless, naive. Advice: Take one brave step toward a new path today, but double-check basics like money, safety, and time.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251202-tarot-caitlin@calendars
+DTSTAMP:20251202T120000Z
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:Daily Tarot: The Magician
+DESCRIPTION:Card: The Magician. Upright: manifestation, focused will, using your tools. Reversed: scattered, insecure, unfocused. Advice: Pick ONE priority and do one concrete action that moves it forward using resources you already have.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251203-tarot-caitlin@calendars
+DTSTAMP:20251203T120000Z
+DTSTART;VALUE=DATE:20251203
+DTEND;VALUE=DATE:20251204
+SUMMARY:Daily Tarot: The High Priestess
+DESCRIPTION:Card: The High Priestess. Upright: intuition, inner knowing, mystery. Reversed: ignoring intuition, confusion, secrets. Advice: Take quiet time and listen to your gut; move in silence instead of oversharing.
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20251204-tarot-caitlin@calendars
 DTSTAMP:20251204T120000Z
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251205
-SUMMARY:Daily Tarot: The Fool
-DESCRIPTION:Card: The Fool\nUpright: new beginnings; leap of faith; spontaneity\nReversed: recklessness; naivety; holding back\nAdvice: Trust your instincts but check basics (money, safety, time). Take one bold step today.
+SUMMARY:Daily Tarot: The Empress
+DESCRIPTION:Card: The Empress. Upright: beauty, creativity, abundance, nurturing. Reversed: creative block, stagnation, overgiving. Advice: Do one luxurious, nurturing thing for yourself and one small action that grows your creative empire.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -18,8 +45,8 @@ UID:20251205-tarot-caitlin@calendars
 DTSTAMP:20251205T120000Z
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
-SUMMARY:Daily Tarot: The Magician
-DESCRIPTION:Card: The Magician\nUpright: manifestation; focused will; resourcefulness\nReversed: scattered energy; manipulation; insecurity\nAdvice: Pick ONE priority and take a concrete action. Use what you already have instead of waiting.
+SUMMARY:Daily Tarot: The Emperor
+DESCRIPTION:Card: The Emperor. Upright: structure, authority, discipline. Reversed: rigidity, avoidance, power struggle. Advice: Set one boundary and one rule today that future-you will thank you for.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -27,8 +54,8 @@ UID:20251206-tarot-caitlin@calendars
 DTSTAMP:20251206T120000Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
-SUMMARY:Daily Tarot: The High Priestess
-DESCRIPTION:Card: The High Priestess\nUpright: intuition; hidden knowledge; mystery\nReversed: ignoring intuition; secrets; confusion\nAdvice: Take 10 quiet minutes and listen to your gut. Do not overshare; move in silence.
+SUMMARY:Daily Tarot: The Hierophant
+DESCRIPTION:Card: The Hierophant. Upright: learning, mentorship, tradition. Reversed: rebellion, boredom, outdated beliefs. Advice: Study or refine one skill today and keep only the traditions that still feel alive and supportive.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -36,8 +63,8 @@ UID:20251207-tarot-caitlin@calendars
 DTSTAMP:20251207T120000Z
 DTSTART;VALUE=DATE:20251207
 DTEND;VALUE=DATE:20251208
-SUMMARY:Daily Tarot: The Empress
-DESCRIPTION:Card: The Empress\nUpright: abundance; beauty; creativity; nurturing\nReversed: creative block; stagnation; dependence\nAdvice: Do one luxurious, nurturing thing for yourself and one small act to grow your creative empire.
+SUMMARY:Daily Tarot: The Lovers
+DESCRIPTION:Card: The Lovers. Upright: alignment, values, heart choices. Reversed: misalignment, mixed signals, temptation. Advice: Make one decision that matches your real values, not fear or FOMO; communicate honestly.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -45,8 +72,8 @@ UID:20251208-tarot-caitlin@calendars
 DTSTAMP:20251208T120000Z
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251209
-SUMMARY:Daily Tarot: The Emperor
-DESCRIPTION:Card: The Emperor\nUpright: structure; authority; discipline\nReversed: rigidity; power struggles; avoidance\nAdvice: Set one boundary and one rule today that future-you will thank you for.
+SUMMARY:Daily Tarot: The Chariot
+DESCRIPTION:Card: The Chariot. Upright: willpower, control, fast movement. Reversed: spinning wheels, scattered, stalled. Advice: Pick a direction and commit; cut one distraction that keeps you stuck.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -54,8 +81,8 @@ UID:20251209-tarot-caitlin@calendars
 DTSTAMP:20251209T120000Z
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
-SUMMARY:Daily Tarot: The Hierophant
-DESCRIPTION:Card: The Hierophant\nUpright: tradition; learning; mentorship\nReversed: rebellion; outdated beliefs; boredom\nAdvice: Study or refine one skill. Keep what works from tradition and ditch what feels dead.
+SUMMARY:Daily Tarot: Strength
+DESCRIPTION:Card: Strength. Upright: inner strength, gentle power, courage. Reversed: self-doubt, burnout, impatience. Advice: Be soft but firm with yourself; respond instead of reacting, and rest if your body asks for it.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -63,8 +90,197 @@ UID:20251210-tarot-caitlin@calendars
 DTSTAMP:20251210T120000Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
-SUMMARY:Daily Tarot: The Lovers
-DESCRIPTION:Card: The Lovers\nUpright: alignment; choices; relationships\nReversed: misalignment; temptation; mixed signals\nAdvice: Make choices that match your real values, not anxiety or FOMO. Communicate honestly.
+SUMMARY:Daily Tarot: The Hermit
+DESCRIPTION:Card: The Hermit. Upright: introspection, soul-searching, solo time. Reversed: isolation, ignoring your inner voice. Advice: Take intentional alone time today; journal or walk and ask what you TRULY want.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251211-tarot-caitlin@calendars
+DTSTAMP:20251211T120000Z
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251212
+SUMMARY:Daily Tarot: Wheel of Fortune
+DESCRIPTION:Card: Wheel of Fortune. Upright: cycles, luck, turning points. Reversed: resistance to change, stuck patterns. Advice: Notice what is shifting and ride the wave instead of clinging to the old pattern.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251212-tarot-caitlin@calendars
+DTSTAMP:20251212T120000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Daily Tarot: Justice
+DESCRIPTION:Card: Justice. Upright: fairness, cause and effect, truth. Reversed: imbalance, unfairness, denial. Advice: Act in a way that feels ethically clean; handle one piece of paperwork or admin you’ve avoided.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251213-tarot-caitlin@calendars
+DTSTAMP:20251213T120000Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:Daily Tarot: The Hanged Man
+DESCRIPTION:Card: The Hanged Man. Upright: new perspective, pause, surrender. Reversed: stuck, stubborn, martyrdom. Advice: Stop forcing; look at one situation from a completely different angle and release what you can’t control.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251214-tarot-caitlin@calendars
+DTSTAMP:20251214T120000Z
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:Daily Tarot: Death
+DESCRIPTION:Card: Death. Upright: endings, transformation, deep release. Reversed: clinging, fear of change, stagnation. Advice: End one thing that is truly done and make space for what actually wants to live in your life.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251215-tarot-caitlin@calendars
+DTSTAMP:20251215T120000Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:Daily Tarot: Temperance
+DESCRIPTION:Card: Temperance. Upright: balance, moderation, blending energies. Reversed: extremes, all-or-nothing, impatience. Advice: Choose the middle path today; combine two approaches instead of swinging between them.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251216-tarot-caitlin@calendars
+DTSTAMP:20251216T120000Z
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20251217
+SUMMARY:Daily Tarot: The Devil
+DESCRIPTION:Card: The Devil. Upright: temptation, bondage, shadow patterns. Reversed: breaking free, detaching, awareness. Advice: Notice one habit or attachment that owns you; take one tiny step to loosen its grip.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251217-tarot-caitlin@calendars
+DTSTAMP:20251217T120000Z
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+SUMMARY:Daily Tarot: The Tower
+DESCRIPTION:Card: The Tower. Upright: sudden change, shock, truth revealed. Reversed: avoiding the shake-up, slow crumble. Advice: Let something false fall; don’t rebuild what you know isn’t right for you.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251218-tarot-caitlin@calendars
+DTSTAMP:20251218T120000Z
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251219
+SUMMARY:Daily Tarot: The Star
+DESCRIPTION:Card: The Star. Upright: hope, healing, inspiration. Reversed: doubt, discouragement, cynicism. Advice: Do something that reminds you you’re guided; let yourself dream bigger without needing the how.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251219-tarot-caitlin@calendars
+DTSTAMP:20251219T120000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Daily Tarot: The Moon
+DESCRIPTION:Card: The Moon. Upright: intuition, dreams, mystery, emotions. Reversed: anxiety, confusion, illusions. Advice: Don’t demand all the answers today; track your dreams and body sensations for clues.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251220-tarot-caitlin@calendars
+DTSTAMP:20251220T120000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Daily Tarot: The Sun
+DESCRIPTION:Card: The Sun. Upright: joy, success, clarity, vitality. Reversed: burnout, temporary gloom, low energy. Advice: Choose the path that feels warm and alive; do something that gets you literal sunlight.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251221-tarot-caitlin@calendars
+DTSTAMP:20251221T120000Z
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:Daily Tarot: Judgement
+DESCRIPTION:Card: Judgement. Upright: awakening, calling, review. Reversed: self-judgment, doubt, resisting the call. Advice: Reflect on this year; notice where you’ve outgrown old versions of yourself and forgive the past.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251222-tarot-caitlin@calendars
+DTSTAMP:20251222T120000Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+SUMMARY:Daily Tarot: The World
+DESCRIPTION:Card: The World. Upright: completion, integration, wholeness. Reversed: almost there, loose ends, fear of finishing. Advice: Finish something; close a loop so a fresh cycle can start.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251223-tarot-caitlin@calendars
+DTSTAMP:20251223T120000Z
+DTSTART;VALUE=DATE:20251223
+DTEND;VALUE=DATE:20251224
+SUMMARY:Daily Tarot: Ace of Wands
+DESCRIPTION:Card: Ace of Wands. Upright: spark, new passion, creative fire. Reversed: blocked inspiration, delay. Advice: Capture one new idea immediately; write it, sketch it, or start it roughly.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251224-tarot-caitlin@calendars
+DTSTAMP:20251224T120000Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+SUMMARY:Daily Tarot: Two of Cups
+DESCRIPTION:Card: Two of Cups. Upright: connection, harmony, mutual vibe. Reversed: imbalance, one-sidedness, tension. Advice: Nourish one important connection today with honest, soft conversation.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251225-tarot-caitlin@calendars
+DTSTAMP:20251225T120000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:Daily Tarot: Ten of Cups
+DESCRIPTION:Card: Ten of Cups. Upright: emotional fulfillment, chosen family, happiness. Reversed: expectations, comparison, tension at home. Advice: Focus on small real moments of joy instead of picture-perfect fantasy.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251226-tarot-caitlin@calendars
+DTSTAMP:20251226T120000Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Daily Tarot: Nine of Pentacles
+DESCRIPTION:Card: Nine of Pentacles. Upright: self-sufficiency, luxury, independence. Reversed: overwork, guilt about rest, dependence. Advice: Enjoy something you earned; let yourself feel proud and supported by your own work.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251227-tarot-caitlin@calendars
+DTSTAMP:20251227T120000Z
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:Daily Tarot: Queen of Wands
+DESCRIPTION:Card: Queen of Wands. Upright: confidence, charisma, creative leadership. Reversed: insecurity, jealousy, hiding your fire. Advice: Show up boldly; share your work or your opinion instead of shrinking.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251228-tarot-caitlin@calendars
+DTSTAMP:20251228T120000Z
+DTSTART;VALUE=DATE:20251228
+DTEND;VALUE=DATE:20251229
+SUMMARY:Daily Tarot: Queen of Cups
+DESCRIPTION:Card: Queen of Cups. Upright: deep feelings, empathy, psychic sensitivity. Reversed: emotional overload, poor boundaries. Advice: Protect your energy; care for yourself the way you care for others.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251229-tarot-caitlin@calendars
+DTSTAMP:20251229T120000Z
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251230
+SUMMARY:Daily Tarot: Queen of Swords
+DESCRIPTION:Card: Queen of Swords. Upright: clarity, honesty, discernment. Reversed: harshness, overthinking, coldness. Advice: Cut through the bullshit; say what needs to be said clearly but without cruelty.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251230-tarot-caitlin@calendars
+DTSTAMP:20251230T120000Z
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20251231
+SUMMARY:Daily Tarot: Queen of Pentacles
+DESCRIPTION:Card: Queen of Pentacles. Upright: grounded, nurturing, practical abundance. Reversed: neglecting self, scattered, depletion. Advice: Handle one money/home/health task in a cozy way that feels nurturing.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251231-tarot-caitlin@calendars
+DTSTAMP:20251231T120000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Daily Tarot: Judgement + The World (Year Review)
+DESCRIPTION:Cards: Judgement & The World. Upright: review, awakening, completion, integration. Advice: Do a year-in-review ritual; forgive past versions of yourself and set one bold, aligned intention for the next cycle.
 END:VEVENT
 
 END:VCALENDAR
