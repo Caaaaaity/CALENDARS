@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Caitlin//TarotDaily//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:20251204-tarot-caitlin@calendars
+DTSTAMP:20251204T120000Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:Daily Tarot: The Fool
+DESCRIPTION:Card: The Fool\nUpright: new beginnings; leap of faith; spontaneity\nReversed: recklessness; naivety; holding back\nAdvice: Trust your instincts but check basics (money, safety, time). Take one bold step today.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251205-tarot-caitlin@calendars
+DTSTAMP:20251205T120000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:Daily Tarot: The Magician
+DESCRIPTION:Card: The Magician\nUpright: manifestation; focused will; resourcefulness\nReversed: scattered energy; manipulation; insecurity\nAdvice: Pick ONE priority and take a concrete action. Use what you already have instead of waiting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251206-tarot-caitlin@calendars
+DTSTAMP:20251206T120000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:Daily Tarot: The High Priestess
+DESCRIPTION:Card: The High Priestess\nUpright: intuition; hidden knowledge; mystery\nReversed: ignoring intuition; secrets; confusion\nAdvice: Take 10 quiet minutes and listen to your gut. Do not overshare; move in silence.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251207-tarot-caitlin@calendars
+DTSTAMP:20251207T120000Z
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:Daily Tarot: The Empress
+DESCRIPTION:Card: The Empress\nUpright: abundance; beauty; creativity; nurturing\nReversed: creative block; stagnation; dependence\nAdvice: Do one luxurious, nurturing thing for yourself and one small act to grow your creative empire.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251208-tarot-caitlin@calendars
+DTSTAMP:20251208T120000Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:Daily Tarot: The Emperor
+DESCRIPTION:Card: The Emperor\nUpright: structure; authority; discipline\nReversed: rigidity; power struggles; avoidance\nAdvice: Set one boundary and one rule today that future-you will thank you for.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251209-tarot-caitlin@calendars
+DTSTAMP:20251209T120000Z
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+SUMMARY:Daily Tarot: The Hierophant
+DESCRIPTION:Card: The Hierophant\nUpright: tradition; learning; mentorship\nReversed: rebellion; outdated beliefs; boredom\nAdvice: Study or refine one skill. Keep what works from tradition and ditch what feels dead.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251210-tarot-caitlin@calendars
+DTSTAMP:20251210T120000Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:Daily Tarot: The Lovers
+DESCRIPTION:Card: The Lovers\nUpright: alignment; choices; relationships\nReversed: misalignment; temptation; mixed signals\nAdvice: Make choices that match your real values, not anxiety or FOMO. Communicate honestly.
+END:VEVENT
+
+END:VCALENDAR
