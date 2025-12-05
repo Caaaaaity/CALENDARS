@@ -2935,4 +2935,1084 @@ Daily Advice:
 Finish or formalize one thing: a project, a decision, a chapter. Mark it as done so the next phase has room to begin.
 END:VEVENT
 
+BEGIN:VEVENT
+UID:tarot-20260516-hermit@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Tarot: IX The Hermit
+DESCRIPTION:Card: IX The Hermit
+
+Upright:
+Intentional solitude, seeking your own wisdom instead of collecting everyone else’s opinions.
+
+Reversed:
+Hiding, ghosting life, or convincing yourself you’re “processing” when you’re just avoiding.
+
+Daily Advice:
+Block off a little solo time today with no outside noise and ask, “What do I honestly know I need to do next?” Write down whatever shows up.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260517-seven-wands@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Tarot: Seven of Wands
+DESCRIPTION:Card: Seven of Wands
+
+Upright:
+Holding your position when you’re finally above the chaos. You earned certain upgrades; you don’t have to argue for them.
+
+Reversed:
+Feeling attacked by every opinion, or tired of defending your choices.
+
+Daily Advice:
+Decide where you refuse to shrink back down. If someone doesn’t get it, let their confusion live with them, not in your body.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260518-three-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Tarot: Three of Swords
+DESCRIPTION:Card: Three of Swords
+
+Upright:
+A clean truth that stings, separating fantasy from reality in a situation.
+
+Reversed:
+Slow, private healing, finally admitting to yourself how much something hurt.
+
+Daily Advice:
+Give that pain a container: a page, a note, a piece of art. Once it’s outside of you, you can start deciding what you want instead of carrying it raw.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260519-eight-pentacles@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Tarot: Eight of Pentacles
+DESCRIPTION:Card: Eight of Pentacles
+
+Upright:
+Practice, repetition, and slow mastery. Showing up again and again is the flex.
+
+Reversed:
+Jumping from project to project the second it stops being instantly satisfying.
+
+Daily Advice:
+Pick one craft, system, or offer and refine it by 1%. Adjust a detail, improve a workflow, or clean up a rough area.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260520-two-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Tarot: Two of Swords
+DESCRIPTION:Card: Two of Swords
+
+Upright:
+Crossroads energy. You know a decision is due, but you’re keeping yourself in limbo.
+
+Reversed:
+Decision fatigue, or finally admitting what you knew all along.
+
+Daily Advice:
+Flip a mental coin about the choice and notice your reaction. Your first “ugh/no” or “ok yeah” is your answer.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260521-queen-wands@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Tarot: Queen of Wands
+DESCRIPTION:Card: Queen of Wands
+
+Upright:
+Magnetic confidence, bold style, and visible charisma. You being fully you is the point.
+
+Reversed:
+Shrinking, apologizing for your presence, or second-guessing your own fire.
+
+Daily Advice:
+Choose one thing today to do the “extra” way: your outfit, your caption, your decor. Let yourself take up aesthetic space on purpose.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260522-five-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Tarot: Five of Cups
+DESCRIPTION:Card: Five of Cups
+
+Upright:
+Grief over what didn’t work, what was lost, or what could’ve been.
+
+Reversed:
+Turning your head toward what still stands and what’s possible now.
+
+Daily Advice:
+Name one thing you’re mourning and one thing you still have that’s worth building on. Both are true; let them coexist.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260523-knight-wands@caitlin-2
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Tarot: Knight of Wands
+DESCRIPTION:Card: Knight of Wands
+
+Upright:
+Firestarter, impulsive, daring. Great for bold moves and creative risks.
+
+Reversed:
+Starting chaos you don’t finish, running on impulse not intention.
+
+Daily Advice:
+Use your courage on one targeted move that supports your future (pitch, post, ask, change), not ten scattered stunts.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260524-temperance@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Tarot: XIV Temperance
+DESCRIPTION:Card: XIV Temperance
+
+Upright:
+Blending extremes into something sustainable. You’re allowed to be both intense and gentle, ambitious and rested.
+
+Reversed:
+All-or-nothing swings that leave you drained.
+
+Daily Advice:
+Pick one area of your life and ask, “What would 5% more balance look like here?” Make that tiny adjustment instead of promising a total overhaul.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260525-two-pentacles@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Tarot: Two of Pentacles
+DESCRIPTION:Card: Two of Pentacles
+
+Upright:
+Managing multiple roles and priorities, like a juggler who knows the rhythm.
+
+Reversed:
+Dropping balls because you’re refusing to prioritize.
+
+Daily Advice:
+Put everything you want to do today on a list, then rank it. Do the top one or two like they actually matter and let the rest be optional.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260526-magician@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Tarot: I The Magician
+DESCRIPTION:Card: I The Magician
+
+Upright:
+You have the ingredients: mindset, tools, talent, and desire. Today is about using them deliberately.
+
+Reversed:
+Saying “I can’t” before you’ve actually tried using what you already have.
+
+Daily Advice:
+Choose one goal and ask, “How can I use what’s already in my hands to move this forward?” Then do the next obvious step.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260527-seven-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Tarot: Seven of Cups
+DESCRIPTION:Card: Seven of Cups
+
+Upright:
+Many possible paths, aesthetics, and timelines. Easy to get enchanted by all of them.
+
+Reversed:
+Overwhelm, shiny-object syndrome, confusion about what you actually want.
+
+Daily Advice:
+Ask, “Which option feels most alive in my body when I picture myself living it?” Move one step closer to that one.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260528-three-wands@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Tarot: Three of Wands
+DESCRIPTION:Card: Three of Wands
+
+Upright:
+Expansion in motion; your previous actions are rippling outward.
+
+Reversed:
+Hovering at the edge of change but not fully committing.
+
+Daily Advice:
+Prep your life for a bigger version of you – clean something out, organize a system, or claim space like you expect success to arrive.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260529-nine-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Tarot: Nine of Cups
+DESCRIPTION:Card: Nine of Cups
+
+Upright:
+Personal satisfaction and “I actually like this for me” energy.
+
+Reversed:
+Chasing things that look good but don’t feel good.
+
+Daily Advice:
+Notice what genuinely makes you feel content, not just entertained. Give that thing more room today.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260530-four-wands@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Tarot: Four of Wands
+DESCRIPTION:Card: Four of Wands
+
+Upright:
+Stability with a side of celebration. A checkpoint that deserves acknowledgment.
+
+Reversed:
+Feeling like you’re never “far enough along” to enjoy anything.
+
+Daily Advice:
+Mark a mini milestone – finish a small task, decorate a corner, or treat yourself in honor of how far you’ve already come.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260531-five-pentacles@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Tarot: Five of Pentacles
+DESCRIPTION:Card: Five of Pentacles
+
+Upright:
+Scarcity vibes – feeling left out, broke, or unsupported.
+
+Reversed:
+Slowly finding doors, resources, or people who change the story.
+
+Daily Advice:
+List all the resources you actually have right now (skills, tech, people, spaces). Pick one and leverage it harder today.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260601-ace-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Tarot: Ace of Swords
+DESCRIPTION:Card: Ace of Swords
+
+Upright:
+Clear thought, sharp idea, or honest truth cutting through noise.
+
+Reversed:
+Mental static, confusion, or second-guessing every thought.
+
+Daily Advice:
+Write a one-sentence headline for what you want June to be about. Let that clarity inform your choices.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260602-queen-pentacles@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Tarot: Queen of Pentacles
+DESCRIPTION:Card: Queen of Pentacles
+
+Upright:
+Grounded luxury, nurturing, and practical magic in everyday life.
+
+Reversed:
+Letting your space, body, or money world slip into chaos while you handle everyone else’s problems.
+
+Daily Advice:
+Do one thing that makes your physical world feel more cared-for: laundry, desk, fridge, bank app. This is self-respect, not chore duty.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260603-high-priestess@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Tarot: II The High Priestess
+DESCRIPTION:Card: II The High Priestess
+
+Upright:
+You already know more than you’re admitting. Your intuition has receipts.
+
+Reversed:
+Ignoring your inner voice in favor of louder external takes.
+
+Daily Advice:
+Before you search or ask anyone else, ask yourself: “If I had to decide this by intuition alone, what would I pick?” Take that answer seriously.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260604-eight-wands@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Tarot: Eight of Wands
+DESCRIPTION:Card: Eight of Wands
+
+Upright:
+Quick moves, messages landing, things speeding up.
+
+Reversed:
+Delays, tangled communication, or feeling like everything hits at once.
+
+Daily Advice:
+Clear one bottleneck that’s slowing you down – an email, a decision, a messy folder. That clears the lane for more momentum.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260605-tower@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Tarot: XVI The Tower
+DESCRIPTION:Card: XVI The Tower
+
+Upright:
+What’s false or unstable can’t hold anymore, so it cracks.
+
+Reversed:
+Resisting the obvious ending and dragging out discomfort.
+
+Daily Advice:
+Ask, “What am I pretending is fine that clearly isn’t?” Take one step that aligns with the truth instead of the illusion.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260606-page-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Tarot: Page of Swords
+DESCRIPTION:Card: Page of Swords
+
+Upright:
+Curiosity, new info, mental energy ready to learn and observe.
+
+Reversed:
+Overthinking, stalking situations, or spiraling in your own head.
+
+Daily Advice:
+Point your curiosity at something that feeds you – tutorials, ideas, articles – not at people who trigger you.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260607-six-wands@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Tarot: Six of Wands
+DESCRIPTION:Card: Six of Wands
+
+Upright:
+Recognition, progress, and being seen for your efforts.
+
+Reversed:
+Downplaying your achievements or acting like they’re an accident.
+
+Daily Advice:
+Write down three wins from the past month. Let yourself own that you caused them, on purpose or not.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260608-hierophant@caitlin-2
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Tarot: V The Hierophant
+DESCRIPTION:Card: V The Hierophant
+
+Upright:
+Traditions, systems, and “official” knowledge you can borrow from.
+
+Reversed:
+Rules that never fit you, or systems that feel suffocating.
+
+Daily Advice:
+Borrow structure without swallowing dogma. Take the framework you like from something and re-style it to fit your brain and vibe.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260609-eight-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Tarot: Eight of Cups
+DESCRIPTION:Card: Eight of Cups
+
+Upright:
+Your soul is done with something, even if your body is still there.
+
+Reversed:
+Staying in a place you know is over because moving on is scary.
+
+Daily Advice:
+Take one symbolic step away from what drains you: unsubscribe, unfollow, stop checking, or stop volunteering your energy there.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260610-three-cups@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Tarot: Three of Cups
+DESCRIPTION:Card: Three of Cups
+
+Upright:
+Community, play, and easy joy. Think “celebration microdose.”
+
+Reversed:
+Catty vibes, cliques, or social fatigue.
+
+Daily Advice:
+Reach out to one person who feels like emotional champagne, not emotional homework. Keep it light and genuine.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260611-strength@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Tarot: VIII Strength
+DESCRIPTION:Card: VIII Strength
+
+Upright:
+Soft, steady power. Taming your inner chaos with compassion, not control.
+
+Reversed:
+Talking to yourself like a bully, then wondering why you feel weak.
+
+Daily Advice:
+When you catch self-criticism, pause and rephrase it as if you were talking to someone you adore. Your nervous system will notice the difference.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260612-four-cups@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Tarot: Four of Cups
+DESCRIPTION:Card: Four of Cups
+
+Upright:
+Emotional boredom, craving realness over surface-level stimulation.
+
+Reversed:
+Noticing that what you wanted is actually already partly here.
+
+Daily Advice:
+If you catch yourself doom-scrolling, ask, “What am I really craving right now?” Then give yourself something closer to that (connection, creativity, rest).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260613-justice@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Tarot: XI Justice
+DESCRIPTION:Card: XI Justice
+
+Upright:
+Cause and effect. Today is about consequences and alignment.
+
+Reversed:
+Blaming yourself for everything or absolving yourself of any role at all.
+
+Daily Advice:
+Pick one situation and ask, “What part of this is mine to own and shift?” Do that, and leave the rest with who it actually belongs to.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260614-ace-pentacles@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Tarot: Ace of Pentacles
+DESCRIPTION:Card: Ace of Pentacles
+
+Upright:
+Seed of money, opportunity, or physical stability. Tiny now, but solid.
+
+Reversed:
+Convincing yourself “it’s nothing” so you don’t bother nurturing it.
+
+Daily Advice:
+Capture one real-world opportunity (tiny or big) in writing and take one small supportive action: apply, research, outline, or reserve.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260615-empress@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Tarot: III The Empress
+DESCRIPTION:Card: III The Empress
+
+Upright:
+Overflow, beauty, and creative fertility. You generate more when you feel resourced.
+
+Reversed:
+Running on empty but still demanding output from yourself.
+
+Daily Advice:
+Before asking for more productivity, give yourself some nourishment: food, rest, touch, art, comfort. Then create from that fuller place.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260616-six-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Tarot: Six of Swords
+DESCRIPTION:Card: Six of Swords
+
+Upright:
+Crossing a threshold internally. You’re not who you were when this started.
+
+Reversed:
+Dragging mental baggage into new terrain.
+
+Daily Advice:
+Choose a symbolic farewell: delete an old convo, archive a file, change a contact name. Mark the transition for yourself.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260617-seven-pentacles@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Tarot: Seven of Pentacles
+DESCRIPTION:Card: Seven of Pentacles
+
+Upright:
+Checking in on where your time, money, and love are going.
+
+Reversed:
+Pouring energy into black holes out of habit.
+
+Daily Advice:
+Audit one area (money, content, relationships). Keep what’s slowly growing; starve what’s clearly wasting your energy.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260618-sun@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Tarot: XIX The Sun
+DESCRIPTION:Card: XIX The Sun
+
+Upright:
+Life-affirming, bright, and honest. The truth benefits you.
+
+Reversed:
+Acting like joy is unsafe, so you dampen it.
+
+Daily Advice:
+Let yourself visibly enjoy something today. Don’t downplay it, even if other people are in a different mood.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260619-five-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Tarot: Five of Swords
+DESCRIPTION:Card: Five of Swords
+
+Upright:
+Arguments or tension where the “win” might not be worth the fallout.
+
+Reversed:
+Tired of rehashing the same fight in your head.
+
+Daily Advice:
+Ask, “If I never speak on this again, do I feel better or worse?” Let that guide whether you address it or release it.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260620-page-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Tarot: Page of Cups
+DESCRIPTION:Card: Page of Cups
+
+Upright:
+Tender, artistic, slightly chaotic emotional baby genius energy.
+
+Reversed:
+Moodiness, overreacting, or expecting others to read your mind.
+
+Daily Advice:
+Express one feeling in a creative way instead of bottling it: a doodle, color palette, playlist, or note.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260621-world@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Tarot: XXI The World
+DESCRIPTION:Card: XXI The World
+
+Upright:
+A chapter is done; the game unlocks the next level.
+
+Reversed:
+Hovering at 99% and refusing to press “complete.”
+
+Daily Advice:
+Choose one thing you’ll officially label “finished” today, even if it’s not perfect. Completion is a portal.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260622-ten-wands@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Tarot: Ten of Wands
+DESCRIPTION:Card: Ten of Wands
+
+Upright:
+You’re carrying an entire storyline on your back. Some of it is necessary; some of it isn’t.
+
+Reversed:
+Dropping responsibilities, or feeling guilty any time you rest.
+
+Daily Advice:
+Delegate, delete, or delay one thing. You do not have to be the pack mule for everyone and everything.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260623-king-pentacles@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Tarot: King of Pentacles
+DESCRIPTION:Card: King of Pentacles
+
+Upright:
+Stable provider and long-range wealth builder energy.
+
+Reversed:
+Avoiding money leadership in your own life, or letting fear call all the shots.
+
+Daily Advice:
+Make one grown-up money move: review, plan, set a limit, or choose a target income for the next few months.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260624-moon@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Tarot: XVIII The Moon
+DESCRIPTION:Card: XVIII The Moon
+
+Upright:
+Dreamy, psychic, liminal night energy. Lots of symbolism.
+
+Reversed:
+Letting fears masquerade as intuition.
+
+Daily Advice:
+If a fear pops up, ask, “Is this my intuition or my trauma talking?” Adjust your trust level accordingly.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260625-ten-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Tarot: Ten of Cups
+DESCRIPTION:Card: Ten of Cups
+
+Upright:
+Emotional harmony, or at least glimpses of it. Moments where things feel genuinely right.
+
+Reversed:
+Pressuring life to look like a fantasy instead of noticing the real sweetness.
+
+Daily Advice:
+Savor one tiny good moment today: a vibe, a view, a laugh. Let it count instead of brushing past it.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260626-wheel-fortune@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Tarot: X Wheel of Fortune
+DESCRIPTION:Card: X Wheel of Fortune
+
+Upright:
+Cycle shift, luck turning, or cosmic timing making itself obvious.
+
+Reversed:
+Feeling like nothing changes even when you want it to.
+
+Daily Advice:
+Look for one “open door” today – a chance, invitation, or hint – and step toward it instead of assuming it’s not for you.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260627-five-wands@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Tarot: Five of Wands
+DESCRIPTION:Card: Five of Wands
+
+Upright:
+Competitive friction that can make you sharper if you don’t take it personally.
+
+Reversed:
+Getting pulled into drama that doesn’t deserve your energy.
+
+Daily Advice:
+Ask, “Is this challenge shaping me or draining me?” Engage only with the former.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260628-queen-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Tarot: Queen of Swords
+DESCRIPTION:Card: Queen of Swords
+
+Upright:
+Clear, discerning, sharp communication and boundaries.
+
+Reversed:
+Harshness, sarcasm used as armor, or cutting people off without clarity.
+
+Daily Advice:
+Say one true thing today with clean edges – no sugarcoating, no cruelty, just honest.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260629-four-pentacles@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Tarot: Four of Pentacles
+DESCRIPTION:Card: Four of Pentacles
+
+Upright:
+Holding what matters close – your money, time, peace.
+
+Reversed:
+Fear-based hoarding, or clenching so hard nothing can move.
+
+Daily Advice:
+Decide what you’re guarding on purpose (savings, energy) and what you could loosen up around without risking your safety.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260630-knight-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Tarot: Knight of Swords
+DESCRIPTION:Card: Knight of Swords
+
+Upright:
+Direct, fast-moving mental power. Great for tackling paperwork, convos, or planning.
+
+Reversed:
+Sharp tongue, tunnel vision, or saying things you can’t unsay.
+
+Daily Advice:
+Use your clarity to draft, plan, or respond – but pause before hitting send on anything emotionally loaded.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260701-king-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Tarot: King of Cups
+DESCRIPTION:Card: King of Cups
+
+Upright:
+Emotional maturity, calm in waves, being your own safe harbor.
+
+Reversed:
+Letting moods steer the day instead of values.
+
+Daily Advice:
+When you feel a big feeling, ask, “What would the emotionally steady version of me do next?” Then copy her.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260702-page-wands@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Tarot: Page of Wands
+DESCRIPTION:Card: Page of Wands
+
+Upright:
+Playful fire – flirting with ideas, aesthetics, or adventures.
+
+Reversed:
+Restless scrolling, no channel for the energy.
+
+Daily Advice:
+Give your energy something fun and small to latch onto: a micro-project, outfit, or experiment you can finish today.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260703-nine-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Tarot: Nine of Swords
+DESCRIPTION:Card: Nine of Swords
+
+Upright:
+Anxiety trying to solve things by thinking in circles.
+
+Reversed:
+Coming out of that loop, or realizing you need a different approach.
+
+Daily Advice:
+Tell your brain “thank you for trying to protect me,” then write down one tiny action that reduces the problem instead of just fearing it.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260704-six-pentacles@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Tarot: Six of Pentacles
+DESCRIPTION:Card: Six of Pentacles
+
+Upright:
+Fairness, reciprocity, giving and receiving in flow.
+
+Reversed:
+Feeling used, or refusing to receive even when it’s offered.
+
+Daily Advice:
+Say no to one ask that feels off, and say yes to one genuine offer of help or support.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260705-fool@caitlin-2
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Tarot: 0 The Fool
+DESCRIPTION:Card: 0 The Fool
+
+Upright:
+Fresh start, leap-of-faith energy, playful risk.
+
+Reversed:
+Fear of looking stupid blocking you from trying.
+
+Daily Advice:
+Do one thing today that Future You will thank you for, even if Present You feels a little unprepared.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260706-three-pentacles@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Tarot: Three of Pentacles
+DESCRIPTION:Card: Three of Pentacles
+
+Upright:
+Building in layers – foundation now, flourish later.
+
+Reversed:
+Trying to freestyle something that actually needs structure.
+
+Daily Advice:
+Map a simple three-step plan for one project: step 1 now, step 2 soon, step 3 later. Give it bones.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260707-star@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Tarot: XVII The Star
+DESCRIPTION:Card: XVII The Star
+
+Upright:
+Gentle optimism and healing energy around your long-term future.
+
+Reversed:
+Protecting yourself by expecting disappointment.
+
+Daily Advice:
+Let yourself visualize a “ridiculous” version of your future for a few minutes. No censoring, just see it.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260708-queen-cups@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Tarot: Queen of Cups
+DESCRIPTION:Card: Queen of Cups
+
+Upright:
+Deep feeling with emotional boundaries. You care, but you aren’t a sponge.
+
+Reversed:
+Taking on everyone’s emotional weather as your own.
+
+Daily Advice:
+Notice where you’re absorbing someone else’s mood. Hand it back mentally: “This is theirs, not mine.”
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260709-six-cups@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Tarot: Six of Cups
+DESCRIPTION:Card: Six of Cups
+
+Upright:
+Comfort, nostalgia, and soft, familiar feelings.
+
+Reversed:
+Living in the past to avoid the present.
+
+Daily Advice:
+Bring one comforting aesthetic from your past into today in an intentional, styled way – music, fashion, decor.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260710-death@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Tarot: XIII Death
+DESCRIPTION:Card: XIII Death
+
+Upright:
+Door closed. Transformational shedding energy.
+
+Reversed:
+Hovering by a door you know you should walk away from.
+
+Daily Advice:
+Release something symbolically – a file, object, habit, or expectation. Make the ending concrete.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260711-chariot@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Tarot: VII The Chariot
+DESCRIPTION:Card: VII The Chariot
+
+Upright:
+Forward motion with intention, not panic.
+
+Reversed:
+Feeling like your life is a car with both pedals pressed.
+
+Daily Advice:
+Choose one direction (not five) to move toward this week. Align today’s main task with that direction.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260712-eight-swords@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Tarot: Eight of Swords
+DESCRIPTION:Card: Eight of Swords
+
+Upright:
+Stuck-feeling that’s mostly mental constraint.
+
+Reversed:
+Loosening the ropes, seeing a way out.
+
+Daily Advice:
+Write down the “rules” you think you’re under. Cross out the ones that aren’t actually enforced by reality.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260713-seven-swords@caitlin-4
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Tarot: Seven of Swords
+DESCRIPTION:Card: Seven of Swords
+
+Upright:
+Strategic privacy, moving quietly while you design your next move.
+
+Reversed:
+Self-betrayal or pretending not to know what you know.
+
+Daily Advice:
+Be honest with yourself in private today, even if you’re not ready to say it out loud. Truth to self first.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tarot-20260714-hanged-man@caitlin-3
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Tarot: XII The Hanged Man
+DESCRIPTION:Card: XII The Hanged Man
+
+Upright:
+Pause, surrender, seeing a situation from a mystical angle.
+
+Reversed:
+Staying stuck because you’re scared of how movement will change things.
+
+Daily Advice:
+Instead of forcing a result, choose to see things differently: “What if this delay or confusion is actually buying me time to choose better?”
+END:VEVENT
+
 END:VCALENDAR
